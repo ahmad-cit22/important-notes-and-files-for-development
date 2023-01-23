@@ -1,0 +1,111 @@
+Video & files of #Class_19 are uploaded to the drive. Drive link -
+
+https://drive.google.com/drive/folders/1yk3h3iFeyBg_FDBqXrbahIy_7hy6z6h-?usp=sharing
+
+
+Video & files of Class 12 are uploaded to the drive. Link is same as previous. 
+Check the Facebook group for the link. Thank you.
+
+
+Batch - CWEB DEV 2201 (Mentor: Al-Amin Sir)
+
+HOMEWORK OF #CLASS_17 ()
+
+CWEB DEV - 2201 (Mentor : Tahsan Sir)
+
+Project - E-Commerce Website with laravel
+
+
+
+
+BATCH - CWEB DEV 2201 (MENTOR: MAHADI TAHSAN SIR 💙)
+📝 Project - E-commerce Site with Laravel
+
+💥 Updates :
+
+** Checkout & order completion process
+** sending invoice through email to the customer
+** fixed some other problems too
+
+🚀 GitHub Repo link : https://github.com/ahmad-cit22/gymove-dashboard-laravel-app
+🚀 LinkedIn : https://www.linkedin.com/in/nafis-abdullah-860052253/
+🚀 Portfolio : https://ahmad-cit22.showwcase.com/
+
+#creativeit #webdevelopment #backenddeveloper #php #laravel #coding #laraveldeveloper #mysql #database #web
+
+
+Batch - ESS React 2201 (Mentor: Shawon Sir)
+
+** 
+Chat App by react-redux
+* Responsive done for all devices
+* Realtime private chatting enabled 
+* Both 1 to 1 & group chat enabled
+
+using react and firebase **
+
+Project - Chat Application by React-Redux
+
+👉 Uploading Photo with react cropper enabled
+👉 Sending & accepting friend requests
+👉 Blocking & unblocking a friend/user
+👉 Creating group and showing them separately in different fields
+ 👉 Accepting group join requests
+ 👉 Also rejecting or declining the requests
+ 👉 Showing the group requests & members in each group's different field
+
+(I am a student of Creative IT Institute 💙)
+
+
+
+📝 Project - Chat App by react-redux
+
+💥 Features :
+** Image sending enabled through Single & Group Chat
+** Auto scrolling to bottom enabled
+** Some other bugs are fixed
+* Responsive for mobiles & tabs also. 
+
+😃 Feel free to try out this app and give a feedback about it. Live link is given below.
+(Due to some server issue, the site may deny access if you refresh the page. In that case, just browse the given link again. Thank you.)
+
+🔗 Some of the technologies I used in this project-
+👉 React JS
+👉 Redux
+👉 React Simple Bar
+👉 React Icons
+👉 Tailwind CSS
+👉 Firebase 
+
+🚀 GitHub Repo link : https://github.com/ahmad-cit22/Chatting-app-by-react-redux
+
+🚀 Live Link (Netlify) : https://nfs-chat-app-react-redux.netlify.app
+
+#reactjs #react #webdevelopment #frontenddeveloper #js #tailwind #frontend #web #creativeit
+
+
+📝 Project - E-commerce Site with Laravel
+
+💥 Updates:
+
+** Custom Sign in & sign up system for customers with all validations
+** Add to cart with validation
+** remove & update an item from cart
+** Add to wishlist
+** remove from wishlist
+** Showing product details on Cart & Wishlist Page individually
+
+🔗 Technologies Used -
+👉 Laravel
+👉 Bootstrap
+👉 JS
+👉 Jquery
+👉 AJAX
+
+🚀 GitHub Repo link : https://github.com/ahmad-cit22/gymove-dashboard-laravel-app
+
+#webdevelopment #backenddeveloper #php #laravel #coding #laraveldeveloper #mysql #database #web
+
+🚀 LinkedIn : https://www.linkedin.com/in/nafis-abdullah-860052253/
+
+🚀 Portfolio : https://ahmad-cit22.showwcase.com/

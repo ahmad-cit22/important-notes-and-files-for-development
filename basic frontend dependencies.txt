@@ -1,0 +1,40 @@
+npx create-react-app my-project
+cd my-project
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+npm install -D prettier prettier-plugin-tailwindcss
+
+npm install react-router-dom@6
+
+import {
+  BrowserRouter,
+  Routes,
+  Route,
+} from "react-router-dom";
+
+** npm install react-icons --save
+
+** npm i react-spinners
+
+** npm install @reduxjs/toolkit react-redux
+
+** npm i react-multi-carousel
+
+** npm i framer-motion
